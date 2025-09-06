@@ -17,7 +17,7 @@ origins = [
     "http://localhost:8080",
     "http://127.0.0.1:5500", # Common for Live Server in VS Code
     "null", # To allow opening index.html directly as a file
-    "https://your-netlify-site-name.netlify.app" # Add your Netlify URL here
+    "https://netlify-render-bi-dashboard-ec5p.onrender.com" # Add your Netlify URL here
 ]
 
 app.add_middleware(
